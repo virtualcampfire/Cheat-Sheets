@@ -11,5 +11,10 @@
 - Terminal öffnen: Ctrl + Shift + ö
 - Datei Splitten: Ctrl + ^
 - Explorer öffnen: Ctrl + Shift + E
-- Format Document: Shift + Alt + F 
+- Format Document: Shift + Alt + F
+- Ganze Zeile makieren: Ctrl + L
+- Zeile löschen: Ctrl + Shift + K
+- Schnell zwischen geöffneten Registerkarten wechseln: Ctrl + Tab
+- Registerkarte schließen: Ctrl + W
+- Schnellöffnen für Dateien und Symbole: Ctrl + P 
 
